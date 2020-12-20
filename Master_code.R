@@ -1,9 +1,9 @@
 # Script to explore Amazon book bestsellers from 2001 to 2020 
 
 # Load in libraries 
-library(readr)
+# library(readr)
 library(tidyverse)
-library(dplyr)
+# library(dplyr)
 
 # Load in the data 
 data <- readr:: read_csv("bestsellers.csv")
